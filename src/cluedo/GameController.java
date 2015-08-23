@@ -43,6 +43,8 @@ public class GameController {
 		//		gameModel.board.printBoard();
 
 		this.addGuiListeners();
+		
+		System.out.println("test github");
 
 
 

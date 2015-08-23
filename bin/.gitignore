@@ -1,1 +1,13 @@
 /cluedo/
+/.classpath
+/.project
+/META-INF/
+/card/
+/desktop.ini
+/game/
+/gui/
+/helper/
+/main/
+/silentHillBoard.txt
+/squares/
+/tests/
